@@ -1,0 +1,16 @@
+@import'globle/_globale.css';
+@import'globle/_reset.css';
+@import'abstract/_abstract.css';
+@import'overwrite/_overWrite.css';
+@import 'components/common/_topBar.css';
+@import'components/home/_header.css';
+@import'components/common/_sidebar.css';
+@import'components/home/_posts.css';
+@import'components/home/_home.css';
+@import'components/home/_post.css';
+@import'components/details/_single.css';
+@import'components/details/_singlePost.css';
+@import'components/write/_write.css';
+@import'components/settings/_settings.css';
+@import'components/login/_login.css';
+@import'components/register/_register.css'

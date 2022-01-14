@@ -1,0 +1,59 @@
+.write_component{
+    
+}
+.writeImg{
+    width: 70vw;
+    margin-left: 150px;
+    border-radius: 5px;
+    object-fit: cover;
+    height: 250px;
+    margin-top: 10px;
+}
+.writeForm{
+    position: relative;
+}
+.writeFormGroup {
+    margin-left: 140px;
+    display: flex;
+    align-items: center;
+}
+.writeFormGroup label svg {
+    width: 25px;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-right: 6px;
+    color: gray;
+    cursor: pointer;
+}
+.writeFormGroup input{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+.writeFormGroup input:focus{
+   outline: none;
+}
+.writeFormGroup textarea{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+.writeFormGroup textarea:focus{
+    outline: none;
+ }
+ .writeSubmit{
+     position: absolute;
+     top: 30px;
+     right: 50px;
+     border: none;
+     background: teal;
+     border-radius: 5px;
+     cursor: pointer;
+     font: size 16px;
+     color: #fff;
+     padding: 10px;
+ }
